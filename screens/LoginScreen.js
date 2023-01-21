@@ -7,7 +7,7 @@ import { View, Text} from 'react-native'
 const LoginScreen = () => {
     return (
         <View>
-            <Text> Chatscreen </Text>
+            <Text> LoginScreen </Text>
         </View>
     );
 };
