@@ -1,14 +1,17 @@
-import React from 'react'
-import { View, Text} from 'react-native'
+import React from 'react';
+import { SafeAreaView, Text} from 'react-native';
+import { Header } from "../components/Header";
+import { ChatList} from "../components/ChatList";
 //import { createNativeStackNavigator } from '@react-navigation/native-stack'
 
 //const Stack = createNativeStackNavigator();
 
 const ChatScreen = () => {
     return (
-        <View>
-            <Text> Chatscreen </Text>
-        </View>
+        <SafeAreaView>
+            <Header title = 'Chat' />
+            <ChatList />
+        </SafeAreaView>
     );
 };
 

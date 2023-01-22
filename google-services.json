@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1047725809272",
+    "project_id": "react-boilermakex",
+    "storage_bucket": "react-boilermakex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047725809272:android:25d7d2376473d47267d78d",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047725809272-aolua5nkka526e7m6qhq1bkqdsg9tt0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "81d027e748c7b887a545ac737d3882e1b0be2cb6"
+          }
+        },
+        {
+          "client_id": "1047725809272-j0k0pau9jjn3h4atg8hp8m3f2s02l94c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFEwlDZMkRxVSIycoYpFwOM2MDxhWoxB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047725809272-3v3vm2k7qkb29t9afiu7nl0qq5922690.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1047725809272-650pl4pfnragp6ri2ugcfd6vr4cclp5i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
