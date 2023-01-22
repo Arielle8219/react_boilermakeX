@@ -1,9 +1,9 @@
 {
   "expoServerPort": null,
-  "packagerPort": null,
+  "packagerPort": 19000,
   "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerNgrokUrl": "https://wa-ib6.arielledong.boilermakex.exp.direct",
+  "packagerNgrokUrl": "https://wa-ib6.arielledong.boilermakex.exp.direct",
+  "ngrokPid": 60858,
   "webpackServerPort": null
 }
